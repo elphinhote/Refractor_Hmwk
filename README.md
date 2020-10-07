@@ -55,5 +55,6 @@ I've learned how to connect links for functionality.
 
 Consolidate code and make CSS less cluttered and more efficient.
 
-I;ve learned to use HTML5 semantics and deploy the application to url.
+I've learned to use HTML5 semantics and deploy the application to url.
 
+https://elphinhote.github.io/Refractor_Hmwk/#search-engine-optimization
