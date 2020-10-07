@@ -1,5 +1,4 @@
-Description
-A marketing agency has asked our team to refractor their website HTML using CSS code, without compromising the source image.
+Description:  A marketing agency has asked our team to refractor their website's HTML using CSS code, without compromising the source image.
 
 Assignment instructions are,
  to make sure that all links are functioning correctly. 
@@ -23,7 +22,7 @@ alt="search engine optimization"
 alt="online reputation management"
 alt="social media marketing"
 
-Condensing CSS Code, we applied
+In condensing CSS Code, we applied:
 
 search-engine-optimization,
 .online-reputation-management,
@@ -48,15 +47,13 @@ search-engine-optimization,
     margin-bottom: 20px;
     font-size: 36px;
 
-Made use of tags changing "div" to "footer"
+We made use of tags changing "div" to "footer"
 
-I've learned how to connect links for functionality
+What I've learned:
 
-Consolidate code and make css less cluttered and more efficient
+I've learned how to connect links for functionality.
 
-Learned to use HTML5 semantics
+Consolidate code and make css less cluttered and more efficient.
 
-Deployed application to url.
+I;ve learned to use HTML5 semantics and deploy the application to url.
 
-
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
