@@ -5,18 +5,18 @@ Assignment instructions are,
  To rework the CSS by making it more efficient, consolidating CSS selectors and properties, and organizing their semantic structure of HTML elements.
 
 We found,
-issues with the HTML and CSS: the code and inefficient use of HTML5 semantics. 
-There is redundancy that can be simplied by condensing the CSS code. 
+issues with the HTML and the CSS code and its inefficient use of HTML5 semantics. 
+There is redundancy to be simplied by condensing the CSS code. 
 
 Summary of Changes,
 
-connecting links for functionality we implemented in html,
+connecting links for functionality we implemented in HTML,
 
 <div id="search-engine-optimization" class="search-engine-optimization">
 <div id="online-reputation-management" class="online-reputation-management">
 <div id="social-media-marketing" class="social-media-marketing">
 
-We implemented accessibility attributes in html and added, 
+We implemented accessibility attributes in HTML and added, 
 
 alt="search engine optimization"
 alt="online reputation management"
@@ -53,7 +53,7 @@ What I've learned:
 
 I've learned how to connect links for functionality.
 
-Consolidate code and make css less cluttered and more efficient.
+Consolidate code and make CSS less cluttered and more efficient.
 
 I;ve learned to use HTML5 semantics and deploy the application to url.
 
